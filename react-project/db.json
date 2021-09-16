@@ -1,0 +1,22 @@
+{
+  "meetings": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "phone": "504-123-1234",
+      "email": "test@tester.com",
+      "date": "09/21/2021",
+      "description": "this is a test to confirm"
+    },
+    {
+      "id": 2,
+      "name": "Tom Cruise",
+      "phone": "223-556-1534",
+      "email": "hello@gmail.com",
+      "date": "09/22/2021",
+      "description": "this is a test to confirm"
+    }
+  ]
+}
+
+// 7c8dcfb7c20c554aef7ea8c22894e622
